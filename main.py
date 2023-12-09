@@ -11,7 +11,7 @@ def this_is_a_function(x: int, y: int) -> int:
     return x + y
 
 def main():
-    return 0
+    return 0 + 1
 
 if __name__ == "__main__":
     print(this_is_a_function(1, 1))
